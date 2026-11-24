@@ -1,0 +1,4 @@
+secrets/*.txt
+!secrets/*.example.txt
+.venv/
+__pycache__/
